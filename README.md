@@ -6,6 +6,6 @@ Dans le cas de ce projet, les données stockées dans la base de données sont:
 - Les voitures présentes dans l'affichage du client, qui servent également pour la gérération de documents PDF et Excel que le client peut télécharger. Ces documents sont créés dynamiquement en fonction d'où le client se situe sur le site. Ces données peuvent aussi être complétées, modifiées et supprimées par des administrateurs.
 - Les informations de l'utilisateur pour s'inscrire et se connecter.
 
-Le lien du site: tiweb.cgmatane.qc.ca/etudiants/2020/tolsyf/liste-voitures.php
+Le lien du site: http://tiweb.cgmatane.qc.ca/etudiants/2020/tolsyf/liste-voitures.php
 
-Le lien du site administrateur: tiweb.cgmatane.qc.ca/etudiants/2020/tolsyf/administration/liste-voitures.php 
+Le lien du site administrateur: http://tiweb.cgmatane.qc.ca/etudiants/2020/tolsyf/administration/liste-voitures.php 
