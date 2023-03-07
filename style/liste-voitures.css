@@ -1,0 +1,39 @@
+#liste-voitures {
+  position: relative;
+  width: 50em;
+  background-color: #eeeeee;
+  padding: 1em;
+}
+
+#liste-voitures .voitures {
+  position: relative;
+  background-color: white;
+  border-radius: 20px;
+  padding: 1em;
+  margin-bottom: 1em;
+  min-height: 10em;
+}
+
+#liste-voitures .voitures * {
+  position: relative;
+}
+
+#liste-voitures .voitures .titre {
+  position: relative;
+  background-color: lightblue;
+}
+
+#liste-voitures .voitures .resume {
+  position: relative;
+}
+
+#liste-voitures .voitures .ventes {
+  margin-left: 11em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#liste-voitures .bouton1 {
+  position: relative;
+  margin-top: 25%;
+}

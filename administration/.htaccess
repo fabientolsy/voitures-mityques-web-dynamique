@@ -1,0 +1,4 @@
+AuthUserFile "/home/tiweb/public_html/etudiants/2020/tolsyf/mdp/.htpasswd"
+AuthName "Pour l'admin seulement"
+AuthType Basic
+Require valid-user

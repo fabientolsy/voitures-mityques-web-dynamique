@@ -1,0 +1,4 @@
+Accès à la page liste par une autr eligne de commande: 
+<a href="voitures.php?voitures=<?= $mityques['id']; ?>" title=""> <button type="button" class="btn btn-primary">Voir plus</button> </a>
+
+<div class="illustration"><img src="illustration/<?= $mityque['illustration'] ?>" /></div>

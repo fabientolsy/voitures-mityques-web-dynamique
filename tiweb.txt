@@ -1,0 +1,9 @@
+Phpmyadmin: https://tiweb.cgmatane.qc.ca/pma
+
+Adresse serveur mysql: localhost (127.0.0.1)
+
+Base de données: tiweb_tolsyf
+
+Identifiant: tiweb_tolsyf
+
+Mot de passe: x2gqEc1Lx8
